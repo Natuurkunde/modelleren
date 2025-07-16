@@ -4,6 +4,7 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
+    - file: modellen/Opdracht_1_De_kop_van_de_slang.ipynb
     - file: modellen/Opdracht_2_Konijntjes.ipynb
     - file: some_content/overview.md
       sections:
